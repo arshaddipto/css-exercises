@@ -1,0 +1,13 @@
+.funky, .inverted {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.funky {
+    background-color: #000000;
+    color: white;
+}
+
+.inverted {
+    background-color: #FFFF00;
+}
